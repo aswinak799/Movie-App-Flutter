@@ -15,13 +15,13 @@ A movie streaming app built with Flutter, inspired by Netflix. The app utilizes 
 ## Screenshots
 
 ![Screenshot 1](screenshots/Screenshot1.jpg)
-![Screenshot 2](screenshots/screenshot2.jpg)
-![Screenshot 3](screenshots/screenshot3.jpg)
-![Screenshot 4](screenshots/screenshot4.jpg)
-![Screenshot 5](screenshots/screenshot5.jpg)
-![Screenshot 6](screenshots/screenshot6.jpg)
-![Screenshot 7](screenshots/screenshot7.jpg)
-![Screenshot 8](screenshots/screenshot8.jpg)
+![Screenshot 2](screenshots/Screenshot2.jpg)
+![Screenshot 3](screenshots/Screenshot3.jpg)
+![Screenshot 4](screenshots/Screenshot4.jpg)
+![Screenshot 5](screenshots/Screenshot5.jpg)
+![Screenshot 6](screenshots/Screenshot6.jpg)
+![Screenshot 7](screenshots/Screenshot7.jpg)
+![Screenshot 8](screenshots/Screenshot8.jpg)
 ## Installation
 
 1. Clone the repository:
